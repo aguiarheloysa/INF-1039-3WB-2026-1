@@ -1,0 +1,8 @@
+Criei um prototipo de como seria o site do nosso projeto. 
+Gerei mocks de exercícios para cada disciplina e flashcards.
+Não inseri o código da disciplina porque é apenas um protótipo, mas uma possivel
+funcionalidade: fazer uma busca por tags, se eu como papel de monitor/auxiliar quero responder
+alguma duvida, entao a funcionalidade de TAGs #assunto_quero_resolver seria interessante, 
+ao inves de fazer uma busca geral da disciplina em si.
+
+link do prototipo: https://eduplataform.lovable.app
